@@ -1,0 +1,27 @@
+/* overflow = membuat scroll pada halaman */
+body {background-color: blanchedalmond;
+overflow: scroll;}
+
+p {font-family: georgia;}
+p.penting { font-family: MV Boli;
+            font-size: 10px;}
+p>span { color: red; }
+h2~p {text-align: justify;}
+a {text-decoration: none;
+    color: brown;}
+    /* :hover = untuk menganti warna tautan ketika kursor di arahkan */
+    /* :active = ganti warna ketika di klik */
+    /* :visited = ganti warna ketika sudah pernah diklik */
+    a:hover { color: blue;}
+a:active {color: gold;}
+a:visited {color: indigo ;}
+
+h3, h2 {text-transform: uppercase;}
+
+.positif {color: green;}
+
+hr { color: rgb(255, 166, 0);
+border: 4px double;}
+
+li {text-transform: uppercase;}
+

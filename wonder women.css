@@ -1,0 +1,9 @@
+h2 {text-transform: uppercase;
+text-align: center;
+font-family: fantasy;
+color: crimson; }
+
+hr {border: 4px double;
+color: crimson;}
+
+span {color: red;}
